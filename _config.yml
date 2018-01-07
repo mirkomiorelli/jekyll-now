@@ -12,7 +12,7 @@ description: Physicist and machine learning enthusiast
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # Choose theme
-theme: cayman
+theme: jekyll-theme-slate
 
 #
 # Flags below are optional
