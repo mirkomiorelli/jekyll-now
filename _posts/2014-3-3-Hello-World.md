@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "RBM:"
-featured-img: /images/header_RBM_dream.png
+title: "RBM: am I dreaming?"
+featured-img: {{ site.baseurl }}/images/header_RBM_dream.png
 ---
+
+mdsaod asd oaso dasm ;dam f;kd;dsaf ;madm;f m;damf;m;df;ds;m fm;ds;m fds
 
 ![_config.yml]({{ site.baseurl }}/images/header_RBM_dream.png)
 
+fk dsfds, ,mfmds lfdsl f
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 
 
