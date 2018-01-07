@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RBM: am I dreaming?"
+title: "RBM I am dreaming"
 featured-img: {{ site.baseurl }}/images/header_RBM_dream.png
 ---
 
