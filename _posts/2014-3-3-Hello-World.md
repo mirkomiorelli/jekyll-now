@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You're up and running!"
+title: "RBM:"
 featured-img: /images/header_RBM_dream.png
 ---
 
