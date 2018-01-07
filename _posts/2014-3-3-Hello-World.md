@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "You're up and running!"
+featured-img: /images/header_RBM_dream.png
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/header_RBM_dream.png)
